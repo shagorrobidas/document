@@ -1,4 +1,4 @@
 ## Github command
 
 `ls -a`
-```ls -a
+``` ls -a
